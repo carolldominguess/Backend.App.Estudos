@@ -1,7 +1,3 @@
-# Teste .NET C# Junior
-
-## Mttechne Soluções
-
 ## Lista de Produtos
 
 A solução proposta é um sistema de produtos de informática. Foi implementado um método que gera uma lista de produtos disponíveis, dispensando a necessidade de conexão com banco de dados num primeiro momento. Sua tarefa é implementar métodos complementares a esse, conforme as regras a seguir.
@@ -23,8 +19,6 @@ Crie um método que retorne a listagem dos produtos dos quais o valor esteja ent
 Crie um método que retorne apenas os valores máximos de cada produto, desconsiderando os que tenham o mesmo nome e valor menor, e um método que faça o contrário, trazendo apenas os produtos de menor valor.
 
 ### Crie testes unitários para todos os casos mencionados acima
-
-# Teste .NET C# Pleno
 
 ### Integração com banco de dados
 
